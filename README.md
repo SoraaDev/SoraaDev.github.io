@@ -1,7 +1,11 @@
  # SoraDev's Offical Page:
 
-  Here you can find .p12 Certificates and .mobileprovision files, DNS, Our Discord Server and   Our Telegram Channel
+  Here you can find :: 
 
+  • Certificates :: .P12 + .Mobileprovision Files
+  • DNS          :: Blocks Certificate Revokes + Blockes Ads
+  • UserScripts  :: Can Bypass Things such as Codex + Arceus X Key Systems
+  • More Stuff!
 
 # Our Channels :
 
